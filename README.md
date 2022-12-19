@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Aplicação desenvolvida com o framework [Nest](https://github.com/nestjs/nest), responsável por gerenciar a persistência e disponibilização de notificações.
 
 ## Installation
 
